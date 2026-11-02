@@ -4,7 +4,6 @@
 #include <filesystem>
 #include "string"
 
-
 void DeleteFolder(const std::filesystem::path& aRoot, const std::filesystem::path& aPath)
 {
 	const std::filesystem::path targetPath = aRoot / aPath;

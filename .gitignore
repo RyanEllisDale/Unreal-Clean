@@ -1,0 +1,13 @@
+*.user
+*.filters
+*.vcxproj
+*.slnx
+*.rc
+*.aps
+
+.vs/
+
+x64/
+
+Unreal-Clean/
+Unreal-Clean/x64/
